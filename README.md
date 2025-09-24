@@ -14,5 +14,5 @@ This project demonstrates how to retrieve geographical information from a public
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ethical-ip-geolocation.git
+   git clone https://github.com/juju9494/ethical-ip-geolocation.git
    cd ethical-ip-geolocation
